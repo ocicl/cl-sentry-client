@@ -2,8 +2,8 @@
 
 Sentry client for Common Lisp
 
-|---------+---------------------------------------------------------------------|
-| source  | git:https://github.com/mmontone/cl-sentry-client.git                |
-| commit  | 4b14e22                                                             |
-| systems | sentry-client sentry-client.async.asd sentry-client.hunchentoot.asd |
-|---------+---------------------------------------------------------------------|
+|---------+-------------------------------------------------------------|
+| source  | git:https://github.com/mmontone/cl-sentry-client.git        |
+| commit  | 4b14e22                                                     |
+| systems | sentry-client sentry-client.async sentry-client.hunchentoot |
+|---------+-------------------------------------------------------------|
