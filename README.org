@@ -1,0 +1,9 @@
+* cl-sentry-client
+
+Sentry client for Common Lisp
+
+|---------+------------------------------------------------------|
+| source  | git:https://github.com/mmontone/cl-sentry-client.git |
+| commit  | 4b14e22                                              |
+| systems | cl-sentry-client                                     |
+|---------+------------------------------------------------------|
