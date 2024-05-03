@@ -4,6 +4,6 @@ Sentry client for Common Lisp
 
 |---------+-------------------------------------------------------------|
 | source  | git:https://github.com/mmontone/cl-sentry-client.git        |
-| commit  | 54cc56b                                                     |
+| commit  | fa64d62                                                     |
 | systems | sentry-client sentry-client.async sentry-client.hunchentoot |
 |---------+-------------------------------------------------------------|
